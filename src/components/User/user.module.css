@@ -1,0 +1,7 @@
+.user {
+    column-gap: 10px;
+    display: flex;
+}
+.pUser {
+    margin: 0;
+}
